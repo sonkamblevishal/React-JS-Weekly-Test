@@ -1,0 +1,15 @@
+// Q4. Write a JavaScript function that generates all combinations of a string.
+Example string : 'dog'
+Expected Output : d,do,dog,o,og,g
+
+
+Ans -> 
+
+function SubString( str , n)
+    {
+       for (var i = 0; i < n; i++)
+           for (var j = i+1; j <= n; j++)
+                console.log(str.substring(i, j));
+    }
+        var str = "abcd";
+        SubString(str, str.length);
