@@ -1,0 +1,14 @@
+ //Q1. Write a JavaScript program to pass a 'JavaScript function' as parameter.
+
+Ans:
+
+function x(param){
+  param();
+}
+
+function y(){
+  console.log("Hello World");
+}
+
+x(y);
+

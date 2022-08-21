@@ -1,0 +1,5 @@
+// Q3. What’s the fastest way to query DOM?
+
+Ans:
+
+getElementbyID
