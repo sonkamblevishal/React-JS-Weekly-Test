@@ -1,0 +1,33 @@
+Q1. Is react a framework or a library and what is the difference between the two?
+
+
+Ans:
+
+React is a Library.
+
+
+
+Diffrence Between Framework & library
+
+React (Libeary) vs Angular (Framework)
+
+Library is small in size.
+
+Framework is big in size.
+
+
+
+
+React is faster compared with Angular and other frameworks.
+
+In a framework, many things are built in.
+
+In a library, it only contains the basics.
+
+Example:
+
+In React, API calls are not there, we import and axios. There is no routing by default, we need to use react-router.
+
+In Angualar, all these things are built-in.
+
+Libraries only contains the bare minimum that you need to get started. Anything extra, you need to install separately.

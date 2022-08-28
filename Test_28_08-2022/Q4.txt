@@ -1,0 +1,17 @@
+Q4. Briefly describe what is the use of the following in react js?
+
+App.js
+Index.js
+app.css
+index.html
+
+
+Ans:
+
+App.js - This is a component. This is the first component that is used in any react application.
+
+index.js - This contains the whole JS for your website. This also contains the initialization code for React.
+
+App.css - This is the CSS for App component. That means, whatever HTML we write in App can access this CSS, outside of that, other components cannot access.
+
+Index.html html is the main HTML file of our app that includes your React code and provides a context for React to render to
